@@ -9,6 +9,30 @@ document.addEventListener('DOMContentLoaded', function() {
             createdDate: "2025-08-01",
             assignedTo: "David Mbiydzenyuy",
             attachments: 2
+        },
+        {
+            title: "Complete Project Ultimate Causes",
+            description: "Write comprehensive documentation for the new project",
+            dueDate: "2025-08-05",
+            createdDate: "2025-08-01",
+            assignedTo: "David Mbiydzenyuy",
+            attachments: 1
+        },
+        {
+            title: "Review Changes to the New Startup Document CCI",
+            description: "Review all changes to the CCI Documentation for registration",
+            dueDate: "2025-08-04",
+            createdDate: "2025-08-01",
+            assignedTo: "David Mbiydzenyuy",
+            attachments: 0
+        },
+        {
+            title: "Prepare Next Week's Extra Tutorial",
+            description: "Research on next week's extra tutorial as addition to React",
+            dueDate: "2025-08-06",
+            createdDate: "2025-08-02",
+            assignedTo: "David Mbiydzenyuy",
+            attachments: 3
         }
     ];
 
