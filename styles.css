@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.todo-card {
+    border-radius: 0.75rem;
+    transition: transform 0.2s ease-in-out;
+}
+
+.todo-card:hover {
+    transform: scale(1.01);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.btn-outline-secondary i {
+    font-size: 1rem;
+}
+
+.card-title {
+    font-weight: 600;
+}
+
+.badge {
+    font-size: 0.85rem;
+}
